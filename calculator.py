@@ -1,10 +1,5 @@
 #-*-coding: utf-8-*-
-# Python program to  create a simple GUI
-# calculator using Tkinter
-# - via https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/ , https://www.techinfected.net/2016/02/make-gui-calculator-in-python-windows-linux.html
-
 import sys
-# import everything from tkinter module
 from tkinter import *
 from decimal import *
 
